@@ -1,0 +1,85 @@
+div.header{
+    background-color: gray;
+}
+div.leftmenu{
+    vertical-align: top;
+    width: 29%;
+    text-align: left;
+    display: inline-block;
+}
+div.logo{
+    padding-top: 10px;
+    padding-left: 50px;
+    height: 80px;
+    background-color: gray;
+}
+
+div.rightmenu{
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: top;
+    width: 70%;
+    text-align: right;
+    display: inline-block;
+}
+div.number{
+    line-height: 90px;
+    display: inline-block;
+    color: white;
+}
+img.number{
+    width: 13px;
+    height: 13px;
+    margin-bottom: -1px;
+    margin-right: 5px;
+}
+
+div.skype{
+    line-height: 90px;
+    margin-left: 50px;
+    display: inline-block;
+    color: white;
+}
+
+div.telegram{
+    line-height: 90px;
+    margin-left: 50px;
+    display: inline-block;
+    color: white;
+}
+div.button{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+button.button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: orange;
+    color: white;
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    border: 0px solid black;
+    margin: 20px;
+}
+
+div.content{
+    vertical-align:middle;
+    text-align: center;
+}
+div.inner{
+    margin-top: 200px;
+    margin-bottom: 50px;
+    height: 100px;
+}
+h1{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
